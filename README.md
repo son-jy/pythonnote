@@ -4,7 +4,7 @@
 
 초보자도 쉽게 배울 수 있도록 Python 수업 내용을 정리하였습니다.
 
-<img src="https://i.namu.wiki/i/mxMv5lNX8m8lUwu7yTjN6eNZh8JVuI6a_chEyMRc4V9oECkhVIl7OiPiGIOllv14uDVNuwRPVco8abCPe5xOiQ.svg" width="600" height="400">
+<img src="mxMv5lNX8m8lUwu7yTjN6eNZh8JVuI6a_chEyMRc4V9oECkhVIl7OiPiGIOllv14uDVNuwRPVco8abCPe5xOiQ.png" width="600" height="400">
 
 &nbsp;
 
