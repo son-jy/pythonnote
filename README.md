@@ -1,9 +1,5 @@
 # Python 수업 노트
 
-안녕하세요, 여러분!  🌟
-
-초보자도 쉽게 배울 수 있도록 Python 수업 내용을 정리하였습니다.
-
 <img src="https://github.com/son-jy/pythonnote/blob/main/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg" width="600" height="400">
 
 &nbsp;
