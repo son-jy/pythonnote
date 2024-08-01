@@ -66,4 +66,20 @@
 
 - **예제26. 리스트 함수 이해하기② (append)**:  📄[노트](https://www.notion.so/26-append-6f4b4de2a3ef45eaae3c3a288ffcbfbe?pvs=21)
 
-  
+- **예제27. 리스트 함수 이해하기③ (insert, extend)**:  📄[노트](https://www.notion.so/27-insert-extend-b17414b4ca3f436881d7d165e9d803a1?pvs=21)
+
+- **예제28. 리스트 함수 이해하기④ (리스트 요소 정렬)**:  📄[노트](https://www.notion.so/28-01d7020988854c87bf0ebafee75eac2d?pvs=21)
+
+- **예제29. 리스트 함수 이해하기⑤ (리스트의 요소 찾기)**:  📄[노트](https://www.notion.so/29-8b782af321184080a7c3823eaa612fd2?pvs=21)
+
+- **예제30. 리스트 함수 이해하기⑥ (리스트의 요소 지우기)**:  📄[노트](https://www.notion.so/30-60c845403cf8446dba52dffc36112954?pvs=21)
+
+- **예제31. 리스트 함수 이해하기⑦ (len 과 sum)**:  📄[노트](https://www.notion.so/31-len-sum-d37a48db66ef4480812c7835a6c181eb?pvs=21)
+
+- **예제32. 리스트 함수 이해하기⑧ (map 과 filter)**:  📄[노트](https://www.notion.so/32-map-filter-3dffe724767f43b89b00bd6e021d9d14?pvs=21)
+
+- **예제33. 리스트 함수 이해하기⑨ (zip 과 enumerate)**:  📄[노트](https://www.notion.so/33-zip-enumerate-3d0c0508c6af48fe8da563bc4f9594e8?pvs=21)
+
+- **예제34. 딕셔너리 자료형 이해하기①**:  📄[노트](https://www.notion.so/34-e8b5172c6e354a9e95bbaac8a279a429?pvs=21)
+
+- **예제35. 딕셔너리 자료형 이해하기②**:  📄[노트](https://www.notion.so/35-ea1abd7ef3ad4a928637fa1ec02271c7?pvs=21)
