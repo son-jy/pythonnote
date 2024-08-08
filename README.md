@@ -106,3 +106,14 @@
 
 - **예제48. 파이썬 모듈 임포트 이해하기**:  📄[노트](https://www.notion.so/48-b75723f9db9c4365b604fe78ae2f01c4?pvs=21)
 
+- **예제49. 예외 처리 이해하기 ① (try~except)**:  📄[노트](https://www.notion.so/49-try-except-87320dede6fa469e972b1b7e34b552ce?pvs=21)
+
+- **예제50. 예외 처리 활용 인터페이스 생성**:  📄[노트](https://www.notion.so/50-d875d2a89fbf4f03b5997c1679e55e60?pvs=21)
+
+- **예제51. 예외 처리 이해하기 ② (try~except~else)**:  📄[노트](https://www.notion.so/51-try-except-else-80a41167fcc94eb69dbdd7501de9b8cc?pvs=21)
+
+- **예제52. 예외 처리 이해하기 ③ (try~except~finally)**:  📄[노트](https://www.notion.so/52-try-except-finally-f40f59622fc34375901d9d47bbc0da53?pvs=21)
+
+- **예제53. 예외 처리 이해하기 ④ (try~except Exception as e)**:  📄[노트](https://www.notion.so/53-try-except-Exception-as-e-8ca0077062eb4ce6939cfc916c48b087?pvs=21)
+
+- **예제54. 사용자 정의 예외 처리**:  📄[노트](https://www.notion.so/54-1b339f8c7d0f4547ac91a4b3a400affd?pvs=21)
