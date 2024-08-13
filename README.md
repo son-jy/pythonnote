@@ -117,3 +117,19 @@
 - **예제53. 예외 처리 이해하기 ④ (try~except Exception as e)**:  📄[노트](https://www.notion.so/53-try-except-Exception-as-e-8ca0077062eb4ce6939cfc916c48b087?pvs=21)
 
 - **예제54. 사용자 정의 예외 처리**:  📄[노트](https://www.notion.so/54-1b339f8c7d0f4547ac91a4b3a400affd?pvs=21)
+
+- **예제55. 클래스 이해하기①**:  📄[노트](https://www.notion.so/55-100ad0cebd9c411fa244cfeddcedddbb?pvs=21)
+
+- **예제56. 클래스 이해하기②**:  📄[노트](https://www.notion.so/56-7c6181adaafb46d6a48112805eafed53?pvs=21)
+
+- **예제57. 클래스 멤버와 인스턴스 멤버 이해하기**:  📄[노트](https://www.notion.so/57-e2fe6d91adfd43239443bbad5f0b0322?pvs=21)
+
+- **예제58. 클래스 상속 이해하기**:  📄[노트](https://www.notion.so/58-7b057f4535f4442795b339017c70afb5?pvs=21)
+
+- **예제60. 파이썬 웹스크롤링① (html 기본 문법 배우기)**:  📄[노트](https://www.notion.so/60-html-660fe045a5e64817a990b8462c28d0a7?pvs=21)
+
+- **예제61. 파이썬 웹스크롤링② (beautiful soup 모듈 배우기)**:  📄[노트](https://www.notion.so/61-beautiful-soup-01f3869950f5485784c660f40abcf5be?pvs=21)
+
+- **예제62. 파이썬 웹스크롤링③ (EBS 레이디 버그 시청자 게시판 데이터 수집)**:  📄[노트](https://www.notion.so/62-EBS-85d0951bf5f34a9fb8f1eb6961c22bd5?pvs=21)
+
+- **예제63. 파이썬 웹스크롤링④ (한국일보)**:  📄[노트](https://www.notion.so/63-6ee0757ec7c34ba3901b08040fe717de?pvs=21)
